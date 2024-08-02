@@ -22,7 +22,7 @@ servidor.get('/calculadora/subtracao/:n1/:n2',(req,resp)=>{
     resp.send({
         subtracao : subtracao
     })
-})
+});
 
 
 
