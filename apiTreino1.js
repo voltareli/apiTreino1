@@ -30,7 +30,7 @@ servidor.get('/calculadora/subtracao/:n1/:n2',(req,resp)=>{
 
 
 
-
+//ta dfeitooooooooooooooooooo//
 
 
 servidor.listen(5050, () => console.log(`API SUBINDO NA PORTA 5050`));
